@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.navbar-brand i:hover{
+    color: indianred;
+}
+
+/* Landing Page */
+#landingPage{
+    line-height: 4rem;
+}
+#landingPage h1{
+    font-size: 46px;
+    font-weight: 800;
+}
+#landingPage p{
+    font-size: 30px;
+    font-weight: 600;
+}
+.heading h2{
+    font-size: 34px;
+    font-weight: 600;
+}
+.heading h2:hover{
+    color: brown;
+}
+/* Order */
+#orderCheckout{
+    display: none;
+}
+#newAddress{
+    display: none;
+}
